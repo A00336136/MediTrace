@@ -1,2 +1,2 @@
 # MediTrace
-MediTrace - AI Powered Symptom Intelligence Platform
+MediTrace - Unified Patient Intelligence Platform
